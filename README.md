@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vivek Munjapara</h1>
+<h1 align="center">Hi 🧑‍💻, I'm Vivek Munjapara</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-munjapara&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-munjapara" /> </p>
+
+- 🌱 I’m currently learning **Javascript and ReactJS**
+
+- 💬 Ask me about **Javascript, Bootstrap, CSS, HTML**
+
+- 📫 How to reach me **vivek.munjapara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-munjapara&show_icons=true&locale=en&layout=compact" alt="vivek-munjapara" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-munjapara&show_icons=true&locale=en" alt="vivek-munjapara" /></p>
